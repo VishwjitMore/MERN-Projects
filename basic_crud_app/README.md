@@ -34,19 +34,18 @@ basic-crud/
 git clone https://github.com/VishwjitMore/mern-projects.git
 
 2️⃣ Navigate to Basic CRUD App
+
 cd mern-projects/basic-crud
 
 3️⃣ Install dependencies
 
 Client
-
 cd client
 npm install
 npm run dev
 
 
 Server
-
 cd server
 npm install
 npm start
