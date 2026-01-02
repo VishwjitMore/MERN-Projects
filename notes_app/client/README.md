@@ -33,32 +33,19 @@ notes-app/
 ├── client/
 └── server/
 
-yaml
-Copy code
-
----
-
-## ▶️ Getting Started
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/mern-projects.git
+git clone https://github.com/VishwjitMore/mern-projects.git
 2️⃣ Navigate to Notes App
-bash
-Copy code
 cd mern-projects/notes-app
 3️⃣ Install dependencies
 Client
-
-bash
-Copy code
 cd client
 npm install
 npm run dev
-Server
 
-bash
-Copy code
+Server
 cd server
 npm install
 npm start
